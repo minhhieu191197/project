@@ -12,6 +12,6 @@ package javaapplication30;
 public class JavaApplication30 {
 
     public static void main(String args[]) {
-        System.out.println("hello");
+        System.out.println("helloasdasdasd");
     }
 }
